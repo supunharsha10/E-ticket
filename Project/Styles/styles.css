@@ -1,0 +1,30 @@
+<style>
+		body {
+		margin: 0;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+		.navbar {
+		overflow: hidden;
+		background-color: Black;
+	}
+
+		.navbar a {
+		float: left;
+		color: White;
+		text-align: center;
+		padding: 14px 80px;
+		text-decoration: none;
+		font-size: 17px;
+	}
+
+		.navbar a:hover {
+		background-color: GoldenRod;
+		color: black;
+	}
+
+		.navbar a.active {
+		background-color: GoldenRod;
+		color: white;
+	}
+</style>

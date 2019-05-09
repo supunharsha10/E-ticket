@@ -1,0 +1,15 @@
+<style>
+.button {
+    background-color: green;
+    border: none;
+    color: green;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: GoldenRod;
+}
+</style>

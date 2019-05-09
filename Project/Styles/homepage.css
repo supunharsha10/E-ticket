@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+.topnav{overflow:hidden;background-color:black;}
+
+.topnav a{float:right; display:block; color:white; text-align:center; padding:12px; text-decoration:none; font-size:17px; font-family: Franklin Gothic Heavy}
+
+.topnav a:hover{background-color:blue; color:white;}
+	
+		a{color:lightblue}
+
+.topnav input[type=text]{float : right; padding:6px; margin-top:7px; margin-right:16px}
+
+h1{color:blue; float:left; font-family:African}
+h3{color:black; float:left; font-family:Bog Standard}
+h2{color:black; float:left; font-family:Bog Standard}
+
+body{background-color:white;}
+
+#page{position:absolute;left:50}
+
+p{float:center;}
+
+.column{    
+	float: left;
+    width: 22%;
+    margin-left: 2%;
+}
+
+.row:after{content:""; display:table; clear:both;}
+
+footer{font-size:15px; font-family:century gothic; background-color:#2B2A2A; color:White; padding:12px;}
+
+select{width : 20%; padding:12px 20px; margin:8px 0; display:inline-block; border: 1px solid #ccc; box-sizing:border-box; font-size:20px}
+
+#contact_name{
+	float: left;
+    text-align: left;
+    margin-left: -318px;
+}
+#hr_tag{
+	margin-top:80px;
+}
+.fa{
+	padding: 3px;
+   
+}
+
+.login-form-home div{
+	margin:20px 0px;	
+}
+.input-fields{
+	float:left;
+}
+
