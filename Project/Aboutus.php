@@ -43,25 +43,7 @@ Other offers and other things to come in near future.<br><br><br></p>
 
 
 
-<footer>
-	<div class="row">
-		<div class="column">For assistant Call<br>0775553421<br><br><br>Address<br><br>Ticketmator.lk<br>No:-50/1,<br>Widyarathna Place,<br>Sapumalwaththa Road,<br>Malabe,Srilanka.</div> 
-		<div class="column">Working Hours<br>9.00 a.m to 5.00 p.m</div>
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		<div class="column">Email Us On<br><a class= "hover"target="_blank" href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" >Support@Ticketmator.lk</a><br><br><br>Follow Us On<br>
-			<div>
-			<a href="https://www.facebook.com/" class="fa fa-facebook" target="_blank"></a>
-			<a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="fa fa-google" target="_blank"></a>
-			<a href="https://www.instagram.com/accounts/login/?hl=en" class="fa fa-instagram" target="_blank"></a>
-			</div>
+
 		
 		
 		
